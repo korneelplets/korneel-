@@ -1,0 +1,39 @@
+#opli{
+  color: rgb(255, 145, 0)
+}
+
+*{
+  color: orange
+}
+
+#ik{
+  color: aquamarine
+}
+
+#ik{
+ background-color: brown
+}
+*{
+  background-color: wheat
+}
+
+#ikik{
+  color: blue
+}
+#stip{
+
+color: blueviolet
+}
+
+#opli:hover{
+color:blueviolet
+}
+
+#opli:hover{
+background-color:rgb(231, 122, 33)
+}
+
+#stipo{
+  color:blue
+
+}
